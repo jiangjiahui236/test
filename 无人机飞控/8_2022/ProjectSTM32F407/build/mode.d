@@ -1,0 +1,3 @@
+.\build\mode.o: ..\FcSrc\mode.c
+.\build\mode.o: ..\FcSrc\mode.h
+.\build\mode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h

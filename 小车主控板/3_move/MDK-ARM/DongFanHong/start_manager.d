@@ -1,0 +1,11 @@
+dongfanhong\start_manager.o: ..\DMP\mllite\start_manager.c
+dongfanhong\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+dongfanhong\start_manager.o: ..\DMP\driver\include\log.h
+dongfanhong\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+dongfanhong\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+dongfanhong\start_manager.o: ..\DMP\mllite\start_manager.h
+dongfanhong\start_manager.o: ..\DMP\driver\include\mltypes.h
+dongfanhong\start_manager.o: ..\DMP\driver\include\stdint_invensense.h
+dongfanhong\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+dongfanhong\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+dongfanhong\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h

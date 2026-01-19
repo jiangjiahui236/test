@@ -1,0 +1,14 @@
+dongfanhong\storage_manager.o: ..\DMP\mllite\storage_manager.c
+dongfanhong\storage_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+dongfanhong\storage_manager.o: ..\DMP\mllite\storage_manager.h
+dongfanhong\storage_manager.o: ..\DMP\driver\include\mltypes.h
+dongfanhong\storage_manager.o: ..\DMP\driver\include\stdint_invensense.h
+dongfanhong\storage_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+dongfanhong\storage_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+dongfanhong\storage_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+dongfanhong\storage_manager.o: ..\DMP\driver\include\log.h
+dongfanhong\storage_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+dongfanhong\storage_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+dongfanhong\storage_manager.o: ..\DMP\mllite\ml_math_func.h
+dongfanhong\storage_manager.o: ..\DMP\driver\include\mlmath.h
+dongfanhong\storage_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

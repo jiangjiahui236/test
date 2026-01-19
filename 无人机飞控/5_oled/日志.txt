@@ -1,0 +1,18 @@
+移植自D:\学习资料\STM32F4（BV1hV411o7is）\[12]\24 I2C\24 I2C\代码\例程\demo5
+
+需要初始化OLED_Init();
+
+修改了
+#define SCL_W	PBout(10)
+#define SDA_W	PBout(11)
+#define SDA_R	PBin(11)
+OLED_ShowNum
+
+void OLED_Init(void)
+{ 	
+	//配置PB10 PB11为输出模式
+	GPIO_InitStructure.GPIO_Pin = GPIO_Pin_10|GPIO_Pin_11;//第6 7根引脚
+}
+
+
+编写了my_oled_show()

@@ -1,0 +1,17 @@
+dongfanhong\hal_outputs.o: ..\DMP\mllite\hal_outputs.c
+dongfanhong\hal_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+dongfanhong\hal_outputs.o: ..\DMP\mllite\hal_outputs.h
+dongfanhong\hal_outputs.o: ..\DMP\driver\include\mltypes.h
+dongfanhong\hal_outputs.o: ..\DMP\driver\include\stdint_invensense.h
+dongfanhong\hal_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+dongfanhong\hal_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+dongfanhong\hal_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+dongfanhong\hal_outputs.o: ..\DMP\driver\include\log.h
+dongfanhong\hal_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+dongfanhong\hal_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+dongfanhong\hal_outputs.o: ..\DMP\mllite\ml_math_func.h
+dongfanhong\hal_outputs.o: ..\DMP\driver\include\mlmath.h
+dongfanhong\hal_outputs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+dongfanhong\hal_outputs.o: ..\DMP\mllite\start_manager.h
+dongfanhong\hal_outputs.o: ..\DMP\mllite\data_builder.h
+dongfanhong\hal_outputs.o: ..\DMP\mllite\results_holder.h

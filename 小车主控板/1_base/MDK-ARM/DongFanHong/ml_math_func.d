@@ -1,0 +1,11 @@
+dongfanhong\ml_math_func.o: ..\DMP\mllite\ml_math_func.c
+dongfanhong\ml_math_func.o: ..\DMP\driver\include\mlmath.h
+dongfanhong\ml_math_func.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+dongfanhong\ml_math_func.o: ..\DMP\mllite\ml_math_func.h
+dongfanhong\ml_math_func.o: ..\DMP\driver\include\mltypes.h
+dongfanhong\ml_math_func.o: ..\DMP\driver\include\stdint_invensense.h
+dongfanhong\ml_math_func.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+dongfanhong\ml_math_func.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+dongfanhong\ml_math_func.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+dongfanhong\ml_math_func.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+dongfanhong\ml_math_func.o: ..\DMP\driver\include\mlinclude.h
