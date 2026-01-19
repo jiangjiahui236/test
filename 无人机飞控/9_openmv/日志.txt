@@ -1,1 +1,0 @@
-串口2连接OpneMV,在my_uart.c中编写了与OpneMV的通信协议
